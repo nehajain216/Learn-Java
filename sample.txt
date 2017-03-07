@@ -1,5 +1,5 @@
 Sample file for testing git
 Updated for testing.
 Updating again.
-Updating from Github.
+Updating through Github.
 Re-Updating from Github.
