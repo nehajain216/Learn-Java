@@ -1,1 +1,2 @@
 Sample file for testing git
+Updated for testing.
