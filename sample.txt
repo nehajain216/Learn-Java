@@ -1,6 +1,0 @@
-Sample file for testing git
-Updated for testing.
-Updating again.
-Updating through Github.
-Re-Updating from Github.
-Second time Updating from Github.
